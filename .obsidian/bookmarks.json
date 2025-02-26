@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1730605866279,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1730605863316,
+          "path": "Homepage.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730605863316,
+          "path": "Squad Inventory.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730605863316,
+          "path": "Previously On....md"
+        },
+        {
+          "type": "folder",
+          "ctime": 1730605863316,
+          "path": "Questlog"
+        },
+        {
+          "type": "folder",
+          "ctime": 1730605863316,
+          "path": "Characters"
+        },
+        {
+          "type": "folder",
+          "ctime": 1730605863316,
+          "path": "Factions"
+        },
+        {
+          "type": "folder",
+          "ctime": 1730605863316,
+          "path": "Locations"
+        },
+        {
+          "type": "folder",
+          "ctime": 1730605863316,
+          "path": "Session Archive"
+        },
+        {
+          "type": "folder",
+          "ctime": 1730605863316,
+          "path": "Broom Closet"
+        },
+        {
+          "type": "file",
+          "ctime": 1730608092625,
+          "path": "Questlog/Side Quests + Questions.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1730608098594,
+          "path": "Questlog/Main Quests.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731041465794,
+          "path": "publish.css",
+          "subpath": "#^-"
+        }
+      ],
+      "title": "sort-spec"
+    }
+  ]
+}

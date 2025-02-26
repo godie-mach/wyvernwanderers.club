@@ -1,0 +1,284 @@
+{
+  "presetFields": [
+    {
+      "type": "Cycle",
+      "tagName": "cycle",
+      "icon": "switch",
+      "tooltip": "Cycles through values from a list",
+      "colorClass": "cycle",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Bar",
+          "2": "Inn",
+          "3": "Both"
+        }
+      },
+      "name": "Bar? Inn?",
+      "id": "1zIM2s",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Hamlet",
+          "2": "Village",
+          "3": "Town",
+          "4": "City"
+        }
+      },
+      "name": "Population Size",
+      "id": "4aYZof",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Knight",
+          "2": "Rogue",
+          "3": "Druid",
+          "4": "Paladin",
+          "5": "Barbarian",
+          "6": "Bard",
+          "7": "Fighter",
+          "8": "Monk",
+          "9": "Cleric",
+          "10": "Ranger",
+          "11": "Warlock",
+          "12": "Sorcerer",
+          "13": "Wizard"
+        }
+      },
+      "name": "Class",
+      "id": "6dNs0g",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "Ruler Title",
+      "id": "7S33Lj",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "Faction",
+      "id": "9wfxkp",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Clan",
+          "2": "Vassal",
+          "3": "House",
+          "4": "Tribe",
+          "5": "Gang",
+          "6": "Church / Temple"
+        }
+      },
+      "name": "Classification",
+      "id": "EQKN9K",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Alive",
+          "2": "Dead",
+          "3": "Missing",
+          "4": "¯\\_(ツ)_/¯"
+        }
+      },
+      "name": "Status",
+      "id": "H5XZFp",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "Ruler",
+      "id": "ZpV6cq",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Good",
+          "2": "Evil",
+          "3": "Neutral"
+        }
+      },
+      "name": "Location Alignment",
+      "id": "ovM9zJ",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Gnome",
+          "2": "Dwarf",
+          "3": "Tiefling",
+          "4": "Orc",
+          "5": "Drow",
+          "6": "Human",
+          "7": "Half-Elf",
+          "8": "Elf",
+          "9": "Goblin",
+          "10": "Feylinx",
+          "11": "Halfling"
+        }
+      },
+      "name": "Race",
+      "id": "rRn3LB",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "Main Seat/Capital",
+      "id": "uDj1RW",
+      "path": ""
+    },
+    {
+      "type": "Cycle",
+      "tagName": "cycle",
+      "icon": "switch",
+      "tooltip": "Cycles through values from a list",
+      "colorClass": "cycle",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Cave",
+          "2": "Mountain",
+          "3": "Desert",
+          "4": "Forest",
+          "5": "Jungle",
+          "6": "Aquatic",
+          "7": "Tundra"
+        }
+      },
+      "name": "Ecosystem",
+      "id": "wP1A2w",
+      "path": ""
+    },
+    {
+      "type": "Input",
+      "tagName": "single",
+      "icon": "pencil",
+      "tooltip": "Accepts any value",
+      "colorClass": "single",
+      "options": {},
+      "name": "Location",
+      "id": "vGp1St",
+      "path": ""
+    },
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "Tavern",
+          "2": "Historical Building",
+          "3": "Inn",
+          "4": "General Store",
+          "5": "Weapons/Armor Store",
+          "6": "Church / Temple",
+          "7": "Stables",
+          "8": "Specialty Store"
+        }
+      },
+      "name": "Type",
+      "id": "cnCYvU",
+      "path": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.20",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true
+}

@@ -1,0 +1,13 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":alarm_clock:",
+    ":moneybag:",
+    ":file_folder:",
+    ":open_book:",
+    ":eyes:"
+  ]
+}

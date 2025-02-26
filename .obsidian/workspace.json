@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e368ff0f310ea65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c7d28b23faa0ab6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75ed5cec16c9fa7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab2d29338c5c8576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d601d0c43b1b082b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "06c6ed153bced19b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dragon",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "21a40d80c522ef80",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "2cd1e9a232c8b084",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3395505d515d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ae7e61a28880ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Key Characters/Syldar Hallwinter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Syldar Hallwinter"
+            }
+          },
+          {
+            "id": "21922b8b0fd983a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
+            }
+          },
+          {
+            "id": "76aa53242383b616",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "custom-sort:Toggle custom sorting": false,
+      "peerdraft:Show my Peerdraft Shares": false
+    }
+  },
+  "active": "8c7d28b23faa0ab6",
+  "lastOpenFiles": [
+    "Homepage.md",
+    "Latest Sessions.md",
+    "Locations/The Redbrand Hideout.md",
+    "Previously On....md",
+    "Squad Inventory.md",
+    "Questlog/Main Quests.md",
+    "Session Archive/Session Log -C2S07 - 26th Session.md",
+    "Characters/The Adventurers.md",
+    "Broom Closet/publish.css",
+    "Nundro.md",
+    "Broom Closet/Attachments/Maps/phandelver-worldmap.webp",
+    "Characters/Key Characters/Nundro Rockseeker.md",
+    "Session Archive/Session Log - C1S17 - 17th Session.md",
+    "Session Archive/Session Log - C2S03 - 22nd Session.md",
+    "Locations/Thundertree.md",
+    "Characters/Key Characters/Reidoth.md",
+    "Characters/Creatures/Venom Fang, the green dragon.md",
+    "Questlog/World History.md",
+    "Questlog/Side Quests + Questions.md",
+    "Characters/NPCs/Linene.md",
+    "Characters/NPCs/Piggie.md",
+    "Characters/NPCs/Mung and Drool.md",
+    "Characters/NPCs/Pytr.md",
+    "Characters/NPCs/Crucian.md",
+    "Characters/NPCs/Gorok Bloodfang.md",
+    "Characters/NPCs/Ferryman.md",
+    "Characters/NPCs/Elmer.md",
+    "Characters/NPCs/Mayor Harbin Wester.md",
+    "Broom Closet/Attachments/Tokens/godric-token.png",
+    "Broom Closet/Attachments/Tokens/_token-editor_token-uploads_humanoid_dragonborncleric4_2025-02-23T20_34_13.092Z.png.sb-d2c09951-tetuSP",
+    "Broom Closet/Attachments/Tokens/_token-editor_token-uploads_humanoid_dragonborncleric4_2025-02-23T20_34_13.092Z.png",
+    "Broom Closet/Attachments/Tokens/tempest-token.png",
+    "Broom Closet/Attachments/Tokens/tempest2-token.png",
+    "Broom Closet/Attachments/Tokens/tempesty-token.png",
+    "Broom Closet/Attachments/Tokens/_token-editor_token-uploads_humanoid_bluedragonbornbard1_2025-02-23T20_29_02.801Z.png.sb-d2c09951-ltj8D7",
+    "Broom Closet/Attachments/Tokens/_token-editor_token-uploads_humanoid_bluedragonbornbard1_2025-02-23T20_29_02.801Z.png",
+    "Broom Closet/Attachments/Portraits/clank-profile.png",
+    "Broom Closet/Attachments/Portraits",
+    "Broom Closet/Attachments/untitled folder",
+    "Broom Closet/Attachments/Tokens/xerov-token.png",
+    "Broom Closet/Attachments/Maps/tresendar-manor-map.jpeg",
+    "Broom Closet/Attachments/Maps",
+    "Broom Closet/Attachments/Tokens",
+    "Broom Closet/Attachments/maskedfrog-token.png.sb-2a3b99f2-xs6VHa",
+    "Broom Closet/Attachments/Vyerlyth-token.png.sb-2a3b99f2-XdtKZQ",
+    "Broom Closet/Attachments/darren-token.png.sb-2a3b99f2-wJYKcv",
+    "Untitled.canvas",
+    "3137 N Saint Louis Ave/*Index.canvas"
+  ]
+}
